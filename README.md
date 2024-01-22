@@ -28,6 +28,7 @@ Question 3. --- Generate the total sales, total vanarsdel sales and vanarsdel ma
 - CASE WHEN, THEN
 - CTE (WITH)
 - COALESCE, JOIN, ON, AS
+- GROUP BY, ORDER BY
 - DISTINCT COUNT
 - NULIF, ROUND(AVG()
 - REPLACE, UPDATE, SET
